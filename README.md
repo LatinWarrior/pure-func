@@ -1,0 +1,2 @@
+# pure-func
+Pure functions
